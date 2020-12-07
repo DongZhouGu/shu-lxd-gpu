@@ -5,7 +5,7 @@
 
 <h1 align="center">力扣刷题模板</h1>
 
-> **记录各类算法题的常用模板、思路，能让大家更快的刷题！**
+> **实验室GPU使用手册-706！**
 
 [Github](https://github.com/DongZhouGu/shu-lxd-gpu)
 [开始阅读](#shu-lxd-gpu)
