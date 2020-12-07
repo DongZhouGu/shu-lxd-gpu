@@ -23,22 +23,9 @@
         name: 'shu-lxd-gpu',
         repo: 'https://github.com/DongZhouGu/shu-lxd-gpu',
         loadSidebar: true,//侧边栏,_sidebar.md
-		subMaxLevel: 2,
+		subMaxLevel: 3,
         auto2top: true,//切换页面后是否自动跳转到页面顶部
         coverpage: true,//封面,_coverpage.md
-      	// markdown 的流程图支持
-        markdown: {
-            renderer: {
-                code: function (code, lang) {
-                    if (lang === "mermaid") {
-                        return (
-                            '<div class="mermaid">' + mermaid.render('mermaid-svg-' + id++, code) + "</div>"
-                        );
-                    }
-                    return this.origin.code.apply(this, arguments);
-                }
-            }
-        }
     }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
