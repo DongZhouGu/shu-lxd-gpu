@@ -30,8 +30,6 @@
 
 
 
-> 监控界面的登入用户名与密码
+> 监控界面的登入用户名与密码，见下方文档
 >
-> Username：jeNoUFqFW4QEcyiMEmJbCe4N-gzGzoHsz
->
-> Password：WGWmWlVEXr75eeTgmjXzpPjM
+> https://shimo.im/docs/yVpDgvJKqPwtvpqr
